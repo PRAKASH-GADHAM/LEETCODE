@@ -47,4 +47,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1052-grumpy-bookstore-owner](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/1052-grumpy-bookstore-owner) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
