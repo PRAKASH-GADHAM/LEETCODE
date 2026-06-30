@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0029-divide-two-integers) |
 | [0078-subsets](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0078-subsets) |
+| [0231-power-of-two](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0231-power-of-two) |
 ## Binary Search
 |  |
 | ------- |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0009-palindrome-number) |
 | [0029-divide-two-integers](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0029-divide-two-integers) |
+| [0231-power-of-two](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0509-fibonacci-number) |
 ## Dynamic Programming
 |  |
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
