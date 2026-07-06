@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0078-subsets) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0204-count-primes](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0204-count-primes) |
+| [0268-missing-number](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0283-move-zeroes) |
 | [1052-grumpy-bookstore-owner](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/1052-grumpy-bookstore-owner) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0001-two-sum) |
+| [0268-missing-number](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0268-missing-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -40,12 +42,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0029-divide-two-integers) |
 | [0078-subsets](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0078-subsets) |
 | [0231-power-of-two](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0268-missing-number) |
 ## Binary Search
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0004-median-of-two-sorted-arrays) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0268-missing-number](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0268-missing-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -54,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0015-3sum) |
+| [0268-missing-number](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0268-missing-number) |
 ## Sliding Window
 |  |
 | ------- |
@@ -67,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0172-factorial-trailing-zeroes](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0172-factorial-trailing-zeroes) |
 | [0204-count-primes](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0268-missing-number) |
 | [0507-perfect-number](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0509-fibonacci-number) |
 ## Dynamic Programming
