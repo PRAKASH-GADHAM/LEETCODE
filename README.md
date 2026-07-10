@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0070-climbing-stairs) |
 | [0172-factorial-trailing-zeroes](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0172-factorial-trailing-zeroes) |
 | [0204-count-primes](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0231-power-of-two) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0152-maximum-product-subarray) |
 | [0509-fibonacci-number](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0509-fibonacci-number) |
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0509-fibonacci-number) |
 ## Enumeration
 |  |
