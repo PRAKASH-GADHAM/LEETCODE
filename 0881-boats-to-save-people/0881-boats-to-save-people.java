@@ -2,7 +2,6 @@ import java.util.Arrays;
 
 class Solution {
     public int numRescueBoats(int[] people, int limit) {
-        // 1. SORTING IS MANDATORY
         Arrays.sort(people);
         
         int i = 0;
