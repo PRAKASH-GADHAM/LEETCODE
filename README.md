@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0013-roman-to-integer) |
 | [0217-contains-duplicate](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0268-missing-number) |
 ## Two Pointers
 |  |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0268-missing-number) |
 | [0881-boats-to-save-people](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0977-squares-of-a-sorted-array) |
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0013-roman-to-integer) |
 | [0067-add-binary](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0344-reverse-string) |
 ## Simulation
 |  |
