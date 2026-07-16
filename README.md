@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0137-single-number-ii) |
 | [0152-maximum-product-subarray](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0169-majority-element) |
 | [0204-count-primes](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0268-missing-number) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0013-roman-to-integer) |
+| [0169-majority-element](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0268-missing-number) |
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0004-median-of-two-sorted-arrays) |
+| [0169-majority-element](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0169-majority-element) |
 ## Sorting
 |  |
 | ------- |
@@ -96,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0268-missing-number) |
@@ -180,4 +184,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0042-trapping-rain-water) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
