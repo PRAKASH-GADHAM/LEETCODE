@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0268-missing-number) |
+| [0424-longest-repeating-character-replacement](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0424-longest-repeating-character-replacement) |
 ## Two Pointers
 |  |
 | ------- |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0209-minimum-size-subarray-sum) |
+| [0424-longest-repeating-character-replacement](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0424-longest-repeating-character-replacement) |
 | [1052-grumpy-bookstore-owner](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/1052-grumpy-bookstore-owner) |
 ## Math
 |  |
@@ -192,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0344-reverse-string) |
+| [0424-longest-repeating-character-replacement](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0424-longest-repeating-character-replacement) |
 | [0443-string-compression](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0443-string-compression) |
 | [0680-valid-palindrome-ii](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0680-valid-palindrome-ii) |
 | [0917-reverse-only-letters](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0917-reverse-only-letters) |
