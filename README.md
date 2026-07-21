@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-bag-of-tokens](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0948-bag-of-tokens) |
 | [0977-squares-of-a-sorted-array](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0977-squares-of-a-sorted-array) |
 | [1089-duplicate-zeros](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/1089-duplicate-zeros) |
+| [1768-merge-strings-alternately](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/1768-merge-strings-alternately) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Backtracking
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0443-string-compression) |
 | [0680-valid-palindrome-ii](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0680-valid-palindrome-ii) |
 | [0917-reverse-only-letters](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0917-reverse-only-letters) |
+| [1768-merge-strings-alternately](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/1768-merge-strings-alternately) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/2108-find-first-palindromic-string-in-the-array) |
 ## Simulation
 |  |
