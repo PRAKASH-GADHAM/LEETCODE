@@ -1,20 +1,10 @@
 class Solution {
     public int strStr(String haystack, String needle) {
-        int i = 0 ;
-        int j = needle.length() ;
-
-        while(i <= haystack.length() - j){
-            String res = ""; 
-            int k = 0 ;
-            while(k < j){
-                res += haystack.charAt(i + k);
-                k++ ;
+        for(int i = 0, j = needle.length(); j<=haystack.length(); i++,j++){
+            if(haystack.substring(i,j).equals(needle)){
+                return i;
             }
-            if(res.equals(needle)){
-                return i ;        
-            }
-            i++ ;
         }
-        return -1 ;
+        return -1;
     }
 }
