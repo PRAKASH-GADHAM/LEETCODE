@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0443-string-compression) |
 | [0680-valid-palindrome-ii](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0680-valid-palindrome-ii) |
 | [0881-boats-to-save-people](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0881-boats-to-save-people) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0152-maximum-product-subarray) |
+| [0392-is-subsequence](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
@@ -202,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0392-is-subsequence) |
 | [0424-longest-repeating-character-replacement](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0424-longest-repeating-character-replacement) |
 | [0443-string-compression](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0443-string-compression) |
 | [0680-valid-palindrome-ii](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0680-valid-palindrome-ii) |
