@@ -168,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0268-missing-number) |
+| [0415-add-strings](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0415-add-strings) |
 | [0507-perfect-number](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0509-fibonacci-number) |
 ## Dynamic Programming
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0392-is-subsequence) |
+| [0415-add-strings](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0415-add-strings) |
 | [0424-longest-repeating-character-replacement](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0424-longest-repeating-character-replacement) |
 | [0443-string-compression](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0443-string-compression) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -227,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0067-add-binary) |
+| [0415-add-strings](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0415-add-strings) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2460-apply-operations-to-an-array](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/2460-apply-operations-to-an-array) |
 ## Matrix
