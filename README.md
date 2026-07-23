@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0389-find-the-difference) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0405-convert-a-number-to-hexadecimal) |
 ## Binary Search
 |  |
 | ------- |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0342-power-of-four) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0415-add-strings](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0415-add-strings) |
 | [0507-perfect-number](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0509-fibonacci-number) |
@@ -253,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0392-is-subsequence) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0415-add-strings](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0415-add-strings) |
 | [0424-longest-repeating-character-replacement](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0424-longest-repeating-character-replacement) |
 | [0443-string-compression](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0443-string-compression) |
