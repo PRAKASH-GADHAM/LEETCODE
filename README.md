@@ -265,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0405-convert-a-number-to-hexadecimal](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0415-add-strings](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0415-add-strings) |
 | [0424-longest-repeating-character-replacement](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0424-longest-repeating-character-replacement) |
+| [0434-number-of-segments-in-a-string](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0434-number-of-segments-in-a-string) |
 | [0443-string-compression](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0443-string-compression) |
 | [0541-reverse-string-ii](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0557-reverse-words-in-a-string-iii) |
