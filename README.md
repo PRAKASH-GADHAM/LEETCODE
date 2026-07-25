@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0283-move-zeroes) |
+| [0347-top-k-frequent-elements](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0347-top-k-frequent-elements) |
 | [0414-third-maximum-number](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0485-max-consecutive-ones) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0389-find-the-difference) |
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0191-number-of-1-bits) |
+| [0347-top-k-frequent-elements](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0347-top-k-frequent-elements) |
 ## Sorting
 |  |
 | ------- |
@@ -175,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0347-top-k-frequent-elements) |
 | [0389-find-the-difference](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0414-third-maximum-number) |
 | [0881-boats-to-save-people](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0881-boats-to-save-people) |
@@ -324,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0229-majority-element-ii) |
+| [0347-top-k-frequent-elements](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0387-first-unique-character-in-a-string) |
 ## Prefix Sum
@@ -342,4 +347,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0387-first-unique-character-in-a-string) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
