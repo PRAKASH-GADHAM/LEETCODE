@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/1480-running-sum-of-1d-array) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1929-concatenation-of-array](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/1929-concatenation-of-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2460-apply-operations-to-an-array](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/2460-apply-operations-to-an-array) |
@@ -304,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0415-add-strings) |
 | [0657-robot-return-to-origin](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0657-robot-return-to-origin) |
+| [1929-concatenation-of-array](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2460-apply-operations-to-an-array](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/2460-apply-operations-to-an-array) |
 ## Matrix
