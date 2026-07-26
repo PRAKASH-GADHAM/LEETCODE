@@ -233,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0507-perfect-number](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/1071-greatest-common-divisor-of-strings) |
 | [3536-maximum-product-of-two-digits](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/3536-maximum-product-of-two-digits) |
 ## Dynamic Programming
 |  |
@@ -301,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0821-shortest-distance-to-a-character](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0821-shortest-distance-to-a-character) |
 | [0917-reverse-only-letters](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0917-reverse-only-letters) |
 | [0925-long-pressed-name](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0925-long-pressed-name) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1768-merge-strings-alternately](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/1768-merge-strings-alternately) |
 | [2000-reverse-prefix-of-word](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/2000-reverse-prefix-of-word) |
