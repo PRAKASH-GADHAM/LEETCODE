@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/1679-max-number-of-k-sum-pairs) |
+| [1732-find-the-highest-altitude](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1929-concatenation-of-array](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/1929-concatenation-of-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/2108-find-first-palindromic-string-in-the-array) |
@@ -377,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/1004-max-consecutive-ones-iii) |
 | [1480-running-sum-of-1d-array](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/1480-running-sum-of-1d-array) |
+| [1732-find-the-highest-altitude](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/1732-find-the-highest-altitude) |
 ## String Matching
 |  |
 | ------- |
