@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0090-subsets-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0137-single-number-ii) |
 | [0152-maximum-product-subarray](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0152-maximum-product-subarray) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0013-roman-to-integer) |
 | [0036-valid-sudoku](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0049-group-anagrams) |
+| [0128-longest-consecutive-sequence](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0205-isomorphic-strings) |
@@ -424,4 +426,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
