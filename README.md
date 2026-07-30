@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0334-increasing-triplet-subsequence](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0334-increasing-triplet-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0347-top-k-frequent-elements) |
 | [0414-third-maximum-number](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0414-third-maximum-number) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0485-max-consecutive-ones) |
 | [0605-can-place-flowers](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0605-can-place-flowers) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0389-find-the-difference) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0424-longest-repeating-character-replacement](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0424-longest-repeating-character-replacement) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0645-set-mismatch) |
@@ -170,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0389-find-the-difference) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0645-set-mismatch](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0645-set-mismatch) |
 ## Binary Search
 |  |
@@ -412,4 +415,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Trie
+|  |
+| ------- |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 <!---LeetCode Topics End-->
