@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0066-plus-one) |
+| [0073-set-matrix-zeroes](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0202-happy-number) |
@@ -369,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0054-spiral-matrix) |
+| [0073-set-matrix-zeroes](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0073-set-matrix-zeroes) |
 ## Greedy
 |  |
 | ------- |
