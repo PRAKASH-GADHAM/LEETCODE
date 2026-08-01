@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0645-set-mismatch) |
+| [0704-binary-search](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0724-find-pivot-index) |
 | [0821-shortest-distance-to-a-character](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0821-shortest-distance-to-a-character) |
 | [0881-boats-to-save-people](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0881-boats-to-save-people) |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0704-binary-search](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0704-binary-search) |
 | [1004-max-consecutive-ones-iii](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/1004-max-consecutive-ones-iii) |
 ## Divide and Conquer
 |  |
