@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0454-4sum-ii](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0454-4sum-ii) |
 | [0485-max-consecutive-ones](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0485-max-consecutive-ones) |
+| [0486-predict-the-winner](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0486-predict-the-winner) |
 | [0560-subarray-sum-equals-k](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0560-subarray-sum-equals-k) |
 | [0605-can-place-flowers](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
@@ -280,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0405-convert-a-number-to-hexadecimal](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0415-add-strings) |
+| [0486-predict-the-winner](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0486-predict-the-winner) |
 | [0507-perfect-number](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0509-fibonacci-number) |
 | [0556-next-greater-element-iii](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0556-next-greater-element-iii) |
@@ -298,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0152-maximum-product-subarray) |
 | [0338-counting-bits](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0392-is-subsequence) |
+| [0486-predict-the-winner](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0509-fibonacci-number) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Recursion
@@ -306,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0342-power-of-four) |
+| [0486-predict-the-winner](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
@@ -460,4 +464,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0128-longest-consecutive-sequence) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
