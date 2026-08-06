@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0724-find-pivot-index) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0821-shortest-distance-to-a-character](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0821-shortest-distance-to-a-character) |
 | [0877-stone-game](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0877-stone-game) |
 | [0881-boats-to-save-people](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0881-boats-to-save-people) |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0374-guess-number-higher-or-lower](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0374-guess-number-higher-or-lower) |
 | [0540-single-element-in-a-sorted-array](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0704-binary-search) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1004-max-consecutive-ones-iii](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/1004-max-consecutive-ones-iii) |
 ## Divide and Conquer
 |  |
