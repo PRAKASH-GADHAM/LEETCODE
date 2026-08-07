@@ -1,6 +1,27 @@
-class Solution {
-    public int mySqrt(int x) {
-        int res = (int) Math.sqrt(x) ;
-        return res ;
+class Solution{
+    public int mySqrt(int x){
+        
+        if(x == 0) return 0 ;
+        
+        long left = 1 ;
+        long right = x ;
+        int result = 0 ;
+        
+        while(left <= right){
+            long mid = left + (right - left) / 2 ;
+            long sq = mid * mid ;
+            
+            if(sq == x){
+                return (int) mid ;
+            } 
+            else  if(sq < x){
+                result = (int) mid ;
+                left = mid + 1 ;
+            } 
+            else{
+                right = mid - 1 ;
+            }
+        }
+        return result ;
     }
-}
+}   
