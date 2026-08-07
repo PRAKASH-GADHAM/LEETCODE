@@ -553,4 +553,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3310-remove-methods-from-project](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/3310-remove-methods-from-project) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
