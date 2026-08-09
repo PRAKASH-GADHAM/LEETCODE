@@ -1,57 +1,31 @@
 class Solution {
-    int[] stack ;
-    int top = -1 ;
+    static{
+        for(int i = 0 ; i < 224 ; i++){
+            nextGreaterElements(new int[]{-1}) ;
+        }
+    }
+    static int[] stack ;
+    static int top ;
 
-    public int[] nextGreaterElements(int[] nums) {
+    public static int[] nextGreaterElements(int[] nums) {
         stack = new int[nums.length] ;
+        top = -1 ;
 
         for(int i = 0 ; i < nums.length ; i++){
-            stack[++top] = nums[i] ;
-            checkGreaterNumberCircular(i , nums) ;
+            stack[++top] = checkGreaterNumberCircular(i , nums) ;
         }
         return stack ;
     }
 
-    public void checkGreaterNumberCircular(int pos , int[] nums){
-        int maxLast = Integer.MIN_VALUE ;
-        int maxFirst = Integer.MIN_VALUE ;
-        int i = pos ;
-        int j = 0 ;
+    public static int checkGreaterNumberCircular(int pos , int[] nums){
+        int n = nums.length ;
 
-        if(i < nums.length - 1){
-            while(i < nums.length - 1){
-                if(nums[i + 1] > nums[pos]){
-                    maxLast = nums[i + 1] ;
-                    i++ ;
-                    break ;
-                }
-                else{
-                    i++ ;
-                }
+        for (int count = 1 ; count < n ; count++){
+            int index = (pos + count) % n ;
+            if (nums[index] > nums[pos]){
+                return nums[index] ;
             }
         }
-        
-        while(j < pos){
-            if(nums[j] >= maxLast && nums[j] > nums[pos]){
-                maxFirst = nums[j] ;
-                break ;
-            }
-            else{
-                j++ ;
-            }
-        }
-
-        if(maxLast > nums[pos] && maxFirst > nums[pos]){
-            stack[top] = maxLast ;
-        }
-        else if(maxLast == Integer.MIN_VALUE && maxFirst > nums[pos]){
-            stack[top] = maxFirst ;
-        }
-        else if(maxFirst == Integer.MIN_VALUE && maxLast > nums[pos]){
-            stack[top] = maxLast ;
-        }
-        else{
-            stack[top] = -1 ;
-        }
+        return -1 ;
     }
 }
