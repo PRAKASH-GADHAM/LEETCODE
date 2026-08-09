@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1052-grumpy-bookstore-owner](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/1052-grumpy-bookstore-owner) |
 | [1089-duplicate-zeros](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/1089-duplicate-zeros) |
+| [1140-stone-game-ii](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/1140-stone-game-ii) |
 | [1207-unique-number-of-occurrences](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/1207-unique-number-of-occurrences) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -326,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0877-stone-game) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/1071-greatest-common-divisor-of-strings) |
+| [1140-stone-game-ii](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/1406-stone-game-iii) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -348,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/1406-stone-game-iii) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -494,6 +497,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/1004-max-consecutive-ones-iii) |
+| [1140-stone-game-ii](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/1140-stone-game-ii) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/1732-find-the-highest-altitude) |
@@ -537,6 +541,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/1406-stone-game-iii) |
 ## Combinatorics
 |  |
@@ -553,10 +558,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Minimax
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/1406-stone-game-iii) |
 ## Zero-Sum Game
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/1406-stone-game-iii) |
 ## Depth-First Search
 |  |
