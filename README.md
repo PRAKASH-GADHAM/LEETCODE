@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0486-predict-the-winner) |
 | [0496-next-greater-element-i](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0560-subarray-sum-equals-k) |
 | [0605-can-place-flowers](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0605-can-place-flowers) |
@@ -475,12 +476,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0071-simplify-path) |
 | [0496-next-greater-element-i](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0503-next-greater-element-ii) |
 | [2000-reverse-prefix-of-word](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/2000-reverse-prefix-of-word) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0503-next-greater-element-ii) |
 ## Counting
 |  |
 | ------- |
