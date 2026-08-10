@@ -179,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0680-valid-palindrome-ii](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0680-valid-palindrome-ii) |
 | [0821-shortest-distance-to-a-character](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0821-shortest-distance-to-a-character) |
+| [0844-backspace-string-compare](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0844-backspace-string-compare) |
 | [0881-boats-to-save-people](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0905-sort-array-by-parity) |
 | [0917-reverse-only-letters](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0917-reverse-only-letters) |
@@ -425,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0680-valid-palindrome-ii) |
 | [0709-to-lower-case](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0709-to-lower-case) |
 | [0821-shortest-distance-to-a-character](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0821-shortest-distance-to-a-character) |
+| [0844-backspace-string-compare](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0844-backspace-string-compare) |
 | [0917-reverse-only-letters](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0917-reverse-only-letters) |
 | [0925-long-pressed-name](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0925-long-pressed-name) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/1071-greatest-common-divisor-of-strings) |
@@ -450,6 +452,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0415-add-strings) |
 | [0657-robot-return-to-origin](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0682-baseball-game) |
+| [0844-backspace-string-compare](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0844-backspace-string-compare) |
 | [1929-concatenation-of-array](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2460-apply-operations-to-an-array](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/2460-apply-operations-to-an-array) |
@@ -486,6 +489,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0503-next-greater-element-ii) |
 | [0678-valid-parenthesis-string](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0678-valid-parenthesis-string) |
 | [0682-baseball-game](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0682-baseball-game) |
+| [0844-backspace-string-compare](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0844-backspace-string-compare) |
 | [2000-reverse-prefix-of-word](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/2000-reverse-prefix-of-word) |
 ## Monotonic Stack
 |  |
