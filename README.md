@@ -433,6 +433,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0917-reverse-only-letters](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0917-reverse-only-letters) |
 | [0925-long-pressed-name](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0925-long-pressed-name) |
 | [1021-remove-outermost-parentheses](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/1021-remove-outermost-parentheses) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1657-determine-if-two-strings-are-close](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/1657-determine-if-two-strings-are-close) |
@@ -495,6 +496,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0844-backspace-string-compare) |
 | [1021-remove-outermost-parentheses](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/1021-remove-outermost-parentheses) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2000-reverse-prefix-of-word](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/2000-reverse-prefix-of-word) |
 ## Monotonic Stack
 |  |
