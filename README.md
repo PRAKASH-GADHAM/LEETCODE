@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0137-single-number-ii) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0162-find-peak-element) |
@@ -325,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0070-climbing-stairs) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0168-excel-sheet-column-title](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0168-excel-sheet-column-title) |
 | [0172-factorial-trailing-zeroes](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0189-rotate-array) |
@@ -507,6 +509,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0071-simplify-path) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0496-next-greater-element-i](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0503-next-greater-element-ii) |
 | [0678-valid-parenthesis-string](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0678-valid-parenthesis-string) |
