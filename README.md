@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-rearrange-array-elements-by-sign](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2460-apply-operations-to-an-array](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/2460-apply-operations-to-an-array) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3637-trionic-array-i](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/3637-trionic-array-i) |
 | [3731-find-missing-elements](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/3731-find-missing-elements) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1657-determine-if-two-strings-are-close](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/1657-determine-if-two-strings-are-close) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -304,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1052-grumpy-bookstore-owner](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/1052-grumpy-bookstore-owner) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Math
 |  |
 | ------- |
