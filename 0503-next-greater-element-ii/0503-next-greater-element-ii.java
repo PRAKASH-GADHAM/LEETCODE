@@ -4,28 +4,25 @@ class Solution {
             nextGreaterElements(new int[]{-1}) ;
         }
     }
-    static int[] stack ;
-    static int top ;
 
     public static int[] nextGreaterElements(int[] nums) {
-        stack = new int[nums.length] ;
-        top = -1 ;
-
-        for(int i = 0 ; i < nums.length ; i++){
-            stack[++top] = checkGreaterNumberCircular(i , nums) ;
-        }
-        return stack ;
-    }
-
-    public static int checkGreaterNumberCircular(int pos , int[] nums){
         int n = nums.length ;
+        int[] result = new int[n] ;
+        Arrays.fill(result , -1) ;
+        Deque<Integer> stack = new ArrayDeque<>() ;
+        
+        for(int i = 2 * n - 1 ; i >= 0 ; i--){
+            int idx = i % n ;
 
-        for (int count = 1 ; count < n ; count++){
-            int index = (pos + count) % n ;
-            if (nums[index] > nums[pos]){
-                return nums[index] ;
+            while(!stack.isEmpty() && stack.peek() <= nums[idx]){
+                stack.pop() ;
             }
+            
+            if(i < n && !stack.isEmpty()){
+                result[idx] = stack.peek() ;
+            }
+            stack.push(nums[idx]) ;
         }
-        return -1 ;
+        return result ;
     }
 }
