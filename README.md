@@ -251,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0374-guess-number-higher-or-lower) |
+| [0441-arranging-coins](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0441-arranging-coins) |
 | [0540-single-element-in-a-sorted-array](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -345,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0405-convert-a-number-to-hexadecimal](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0415-add-strings) |
+| [0441-arranging-coins](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0441-arranging-coins) |
 | [0486-predict-the-winner](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0486-predict-the-winner) |
 | [0507-perfect-number](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0509-fibonacci-number) |
