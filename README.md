@@ -389,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1486-xor-operation-in-an-array](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/1486-xor-operation-in-an-array) |
 | [1510-stone-game-iv](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/1510-stone-game-iv) |
 | [1512-number-of-good-pairs](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/1512-number-of-good-pairs) |
+| [1523-count-odd-numbers-in-an-interval-range](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/3348-smallest-divisible-digit-product-ii) |
