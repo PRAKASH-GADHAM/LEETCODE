@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1480-running-sum-of-1d-array](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/1480-running-sum-of-1d-array) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [1512-number-of-good-pairs](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/1512-number-of-good-pairs) |
 | [1598-crawler-log-folder](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/1598-crawler-log-folder) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1207-unique-number-of-occurrences](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/1207-unique-number-of-occurrences) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1399-count-largest-group](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/1399-count-largest-group) |
+| [1512-number-of-good-pairs](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/1512-number-of-good-pairs) |
 | [1657-determine-if-two-strings-are-close](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/1657-determine-if-two-strings-are-close) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/2215-find-the-difference-of-two-arrays) |
@@ -386,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/1406-stone-game-iii) |
 | [1486-xor-operation-in-an-array](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/1486-xor-operation-in-an-array) |
 | [1510-stone-game-iv](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/1510-stone-game-iv) |
+| [1512-number-of-good-pairs](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/1512-number-of-good-pairs) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -593,6 +596,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0387-first-unique-character-in-a-string) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1399-count-largest-group](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/1399-count-largest-group) |
+| [1512-number-of-good-pairs](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/1512-number-of-good-pairs) |
 | [1657-determine-if-two-strings-are-close](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/1657-determine-if-two-strings-are-close) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/3518-smallest-palindromic-rearrangement-ii) |
