@@ -246,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0645-set-mismatch) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [1486-xor-operation-in-an-array](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/1486-xor-operation-in-an-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -383,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1399-count-largest-group](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/1399-count-largest-group) |
 | [1406-stone-game-iii](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/1406-stone-game-iii) |
+| [1486-xor-operation-in-an-array](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/1486-xor-operation-in-an-array) |
 | [1510-stone-game-iv](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/1510-stone-game-iv) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/3345-smallest-divisible-digit-product-i) |
