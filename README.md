@@ -392,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/1512-number-of-good-pairs) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/1588-sum-of-all-odd-length-subarrays) |
+| [1688-count-of-matches-in-tournament](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/1688-count-of-matches-in-tournament) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -527,6 +528,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0844-backspace-string-compare) |
 | [1103-distribute-candies-to-people](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/1103-distribute-candies-to-people) |
+| [1688-count-of-matches-in-tournament](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/1688-count-of-matches-in-tournament) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1929-concatenation-of-array](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/2149-rearrange-array-elements-by-sign) |
