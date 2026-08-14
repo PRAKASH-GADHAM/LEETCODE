@@ -401,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1822-sign-of-the-product-of-an-array](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1837-sum-of-digits-in-base-k](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/1837-sum-of-digits-in-base-k) |
 | [1925-count-square-sum-triples](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/1925-count-square-sum-triples) |
+| [1952-three-divisors](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/1952-three-divisors) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -447,6 +448,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0204-count-primes](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0204-count-primes) |
 | [1925-count-square-sum-triples](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/1925-count-square-sum-triples) |
+| [1952-three-divisors](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/1952-three-divisors) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Number Theory
 |  |
@@ -454,6 +456,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0258-add-digits) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
+| [1952-three-divisors](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/1952-three-divisors) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## String
 |  |
@@ -757,4 +760,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
+## Prime Factorization
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/1952-three-divisors) |
+## Sieve Theory
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/1952-three-divisors) |
 <!---LeetCode Topics End-->
