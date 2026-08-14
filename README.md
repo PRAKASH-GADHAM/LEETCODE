@@ -396,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1688-count-of-matches-in-tournament](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/1688-count-of-matches-in-tournament) |
 | [1716-calculate-money-in-leetcode-bank](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/1716-calculate-money-in-leetcode-bank) |
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/1742-maximum-number-of-balls-in-a-box) |
+| [1812-determine-color-of-a-chessboard-square](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -507,6 +508,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1657-determine-if-two-strings-are-close](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/1657-determine-if-two-strings-are-close) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1768-merge-strings-alternately](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/1768-merge-strings-alternately) |
+| [1812-determine-color-of-a-chessboard-square](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [2000-reverse-prefix-of-word](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/2000-reverse-prefix-of-word) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/2696-minimum-string-length-after-removing-substrings) |
