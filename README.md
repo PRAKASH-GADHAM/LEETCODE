@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0905-sort-array-by-parity) |
 | [0908-smallest-range-i](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0908-smallest-range-i) |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0922-sort-array-by-parity-ii](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0922-sort-array-by-parity-ii) |
 | [0948-bag-of-tokens](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0948-bag-of-tokens) |
 | [0977-squares-of-a-sorted-array](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0977-squares-of-a-sorted-array) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0645-set-mismatch) |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1207-unique-number-of-occurrences](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/1207-unique-number-of-occurrences) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1657-determine-if-two-strings-are-close](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/1657-determine-if-two-strings-are-close) |
@@ -364,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0812-largest-triangle-area](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0812-largest-triangle-area) |
 | [0877-stone-game](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0877-stone-game) |
 | [0908-smallest-range-i](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0908-smallest-range-i) |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1140-stone-game-ii](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/1140-stone-game-ii) |
 | [1154-day-of-the-year](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/1154-day-of-the-year) |
@@ -421,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0204-count-primes](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0258-add-digits) |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## String
 |  |
@@ -573,6 +577,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0387-first-unique-character-in-a-string) |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1657-determine-if-two-strings-are-close](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/1657-determine-if-two-strings-are-close) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -707,4 +712,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0812-largest-triangle-area](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0812-largest-triangle-area) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 <!---LeetCode Topics End-->
