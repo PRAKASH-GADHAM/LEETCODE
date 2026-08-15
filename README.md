@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1929-concatenation-of-array](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/1929-concatenation-of-array) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/2215-find-the-difference-of-two-arrays) |
@@ -404,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1837-sum-of-digits-in-base-k](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/1837-sum-of-digits-in-base-k) |
 | [1925-count-square-sum-triples](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/1925-count-square-sum-triples) |
 | [1952-three-divisors](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/1952-three-divisors) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -459,6 +461,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0258-add-digits) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1952-three-divisors](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/1952-three-divisors) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## String
 |  |
@@ -758,10 +761,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Greatest Common Divisor
 |  |
 | ------- |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Prime Factorization
 |  |
 | ------- |
