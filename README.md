@@ -434,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2614-prime-in-diagonal](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/2614-prime-in-diagonal) |
 | [2652-sum-multiples](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/2652-sum-multiples) |
 | [2729-check-if-the-number-is-fascinating](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/2729-check-if-the-number-is-fascinating) |
+| [2739-total-distance-traveled](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/2739-total-distance-traveled) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -590,6 +591,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2549-count-distinct-numbers-on-board](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/2549-count-distinct-numbers-on-board) |
 | [2582-pass-the-pillow](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/2582-pass-the-pillow) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/2696-minimum-string-length-after-removing-substrings) |
+| [2739-total-distance-traveled](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/2739-total-distance-traveled) |
 | [3174-clear-digits](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/3174-clear-digits) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 ## Matrix
