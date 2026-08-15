@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3432-count-partitions-with-even-sum-difference](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3591-check-if-any-element-has-prime-frequency](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3637-trionic-array-i](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/3637-trionic-array-i) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/3731-find-missing-elements) |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+| [3591-check-if-any-element-has-prime-frequency](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3731-find-missing-elements](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/3731-find-missing-elements) |
 ## Two Pointers
 |  |
@@ -475,6 +477,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3536-maximum-product-of-two-digits](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/3536-maximum-product-of-two-digits) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3560-find-minimum-log-transportation-cost](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/3560-find-minimum-log-transportation-cost) |
+| [3591-check-if-any-element-has-prime-frequency](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/3591-check-if-any-element-has-prime-frequency) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -535,6 +538,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2748-number-of-beautiful-pairs](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/2748-number-of-beautiful-pairs) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
+| [3591-check-if-any-element-has-prime-frequency](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/3591-check-if-any-element-has-prime-frequency) |
 ## String
 |  |
 | ------- |
@@ -712,6 +716,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2748-number-of-beautiful-pairs](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/2748-number-of-beautiful-pairs) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+| [3591-check-if-any-element-has-prime-frequency](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/3591-check-if-any-element-has-prime-frequency) |
 ## Prefix Sum
 |  |
 | ------- |
