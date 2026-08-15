@@ -474,6 +474,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/3536-maximum-product-of-two-digits) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3560-find-minimum-log-transportation-cost](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/3560-find-minimum-log-transportation-cost) |
 ## Dynamic Programming
 |  |
 | ------- |
