@@ -197,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3663-find-the-least-frequent-digit](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/3663-find-the-least-frequent-digit) |
 | [3731-find-missing-elements](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/3731-find-missing-elements) |
+| [3945-digit-frequency-score](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/3945-digit-frequency-score) |
 ## Two Pointers
 |  |
 | ------- |
@@ -494,6 +495,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3875-construct-uniform-parity-array-i](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/3875-construct-uniform-parity-array-i) |
 | [3894-traffic-signal-color](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/3894-traffic-signal-color) |
 | [3908-valid-digit-number](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/3908-valid-digit-number) |
+| [3945-digit-frequency-score](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/3945-digit-frequency-score) |
 ## Dynamic Programming
 |  |
 | ------- |
