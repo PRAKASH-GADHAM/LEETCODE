@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3024-type-of-triangle](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/3024-type-of-triangle) |
 | [3079-find-the-sum-of-encrypted-integers](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/3079-find-the-sum-of-encrypted-integers) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3232-find-if-digit-game-can-be-won](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3637-trionic-array-i](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/3637-trionic-array-i) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/3731-find-missing-elements) |
@@ -453,6 +454,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3178-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/3178-find-the-child-who-has-the-ball-after-k-seconds) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/3222-find-the-winning-player-in-coin-game) |
+| [3232-find-if-digit-game-can-be-won](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/3518-smallest-palindromic-rearrangement-ii) |
