@@ -439,6 +439,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2739-total-distance-traveled](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/2739-total-distance-traveled) |
 | [2748-number-of-beautiful-pairs](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/2748-number-of-beautiful-pairs) |
 | [2806-account-balance-after-rounded-purchase](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/2806-account-balance-after-rounded-purchase) |
+| [2843-count-symmetric-integers](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/2843-count-symmetric-integers) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -487,6 +488,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1925-count-square-sum-triples](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/1925-count-square-sum-triples) |
 | [1952-three-divisors](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/1952-three-divisors) |
 | [2427-number-of-common-factors](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/2427-number-of-common-factors) |
+| [2843-count-symmetric-integers](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/2843-count-symmetric-integers) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Number Theory
 |  |
