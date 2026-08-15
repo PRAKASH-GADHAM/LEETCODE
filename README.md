@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3232-find-if-digit-game-can-be-won](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3637-trionic-array-i](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/3637-trionic-array-i) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/3731-find-missing-elements) |
@@ -472,6 +473,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3516-find-closest-person](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/3516-find-closest-person) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/3536-maximum-product-of-two-digits) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Dynamic Programming
 |  |
 | ------- |
