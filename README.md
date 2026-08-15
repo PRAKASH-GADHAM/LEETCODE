@@ -406,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1925-count-square-sum-triples](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/1925-count-square-sum-triples) |
 | [1952-three-divisors](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2119-a-number-after-a-double-reversal](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/2119-a-number-after-a-double-reversal) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/3348-smallest-divisible-digit-product-ii) |
