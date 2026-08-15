@@ -478,6 +478,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3560-find-minimum-log-transportation-cost](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/3560-find-minimum-log-transportation-cost) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/3591-check-if-any-element-has-prime-frequency) |
+| [3602-hexadecimal-and-hexatrigesimal-conversion](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/3602-hexadecimal-and-hexatrigesimal-conversion) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -614,6 +615,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+| [3602-hexadecimal-and-hexatrigesimal-conversion](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/3602-hexadecimal-and-hexatrigesimal-conversion) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 ## Simulation
 |  |
