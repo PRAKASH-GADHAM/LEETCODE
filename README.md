@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3024-type-of-triangle](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/3024-type-of-triangle) |
+| [3079-find-the-sum-of-encrypted-integers](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/3079-find-the-sum-of-encrypted-integers) |
 | [3637-trionic-array-i](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/3637-trionic-array-i) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/3731-find-missing-elements) |
@@ -446,6 +447,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2928-distribute-candies-among-children-i](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/2928-distribute-candies-among-children-i) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3024-type-of-triangle](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/3024-type-of-triangle) |
+| [3079-find-the-sum-of-encrypted-integers](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/3079-find-the-sum-of-encrypted-integers) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/3518-smallest-palindromic-rearrangement-ii) |
