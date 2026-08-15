@@ -175,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/1742-maximum-number-of-balls-in-a-box) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2549-count-distinct-numbers-on-board](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/2549-count-distinct-numbers-on-board) |
+| [2729-check-if-the-number-is-fascinating](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/2729-check-if-the-number-is-fascinating) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -432,6 +433,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2582-pass-the-pillow](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/2582-pass-the-pillow) |
 | [2614-prime-in-diagonal](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/2614-prime-in-diagonal) |
 | [2652-sum-multiples](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/2652-sum-multiples) |
+| [2729-check-if-the-number-is-fascinating](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/2729-check-if-the-number-is-fascinating) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/3348-smallest-divisible-digit-product-ii) |
