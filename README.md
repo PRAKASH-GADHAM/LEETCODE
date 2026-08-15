@@ -485,6 +485,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3663-find-the-least-frequent-digit](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/3663-find-the-least-frequent-digit) |
 | [3697-compute-decimal-representation](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/3697-compute-decimal-representation) |
+| [3726-remove-zeros-in-decimal-representation](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/3726-remove-zeros-in-decimal-representation) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -651,6 +652,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3222-find-the-winning-player-in-coin-game](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/3222-find-the-winning-player-in-coin-game) |
 | [3360-stone-removal-game](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/3360-stone-removal-game) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
+| [3726-remove-zeros-in-decimal-representation](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/3726-remove-zeros-in-decimal-representation) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 ## Matrix
 |  |
