@@ -407,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1952-three-divisors](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2119-a-number-after-a-double-reversal](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/2119-a-number-after-a-double-reversal) |
+| [2169-count-operations-to-obtain-zero](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/2169-count-operations-to-obtain-zero) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -551,6 +552,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1929-concatenation-of-array](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2169-count-operations-to-obtain-zero](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/2169-count-operations-to-obtain-zero) |
 | [2460-apply-operations-to-an-array](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/2460-apply-operations-to-an-array) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [3174-clear-digits](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/3174-clear-digits) |
