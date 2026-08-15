@@ -492,6 +492,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 | [3870-count-commas-in-range](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/3875-construct-uniform-parity-array-i) |
+| [3894-traffic-signal-color](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/3894-traffic-signal-color) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -631,6 +632,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3602-hexadecimal-and-hexatrigesimal-conversion](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/3602-hexadecimal-and-hexatrigesimal-conversion) |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
+| [3894-traffic-signal-color](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/3894-traffic-signal-color) |
 ## Simulation
 |  |
 | ------- |
@@ -661,6 +663,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/3726-remove-zeros-in-decimal-representation) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
+| [3894-traffic-signal-color](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/3894-traffic-signal-color) |
 ## Matrix
 |  |
 | ------- |
