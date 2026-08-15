@@ -441,6 +441,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2806-account-balance-after-rounded-purchase](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/2806-account-balance-after-rounded-purchase) |
 | [2843-count-symmetric-integers](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/2843-count-symmetric-integers) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/2894-divisible-and-non-divisible-sums-difference) |
+| [2928-distribute-candies-among-children-i](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/2928-distribute-candies-among-children-i) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -490,6 +491,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1952-three-divisors](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/1952-three-divisors) |
 | [2427-number-of-common-factors](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/2427-number-of-common-factors) |
 | [2843-count-symmetric-integers](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/2843-count-symmetric-integers) |
+| [2928-distribute-candies-among-children-i](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/2928-distribute-candies-among-children-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Number Theory
 |  |
@@ -737,6 +739,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Combinatorics
 |  |
 | ------- |
+| [2928-distribute-candies-among-children-i](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/2928-distribute-candies-among-children-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Interactive
 |  |
