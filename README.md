@@ -832,6 +832,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0155-min-stack](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0155-min-stack) |
 | [0303-range-sum-query-immutable](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0303-range-sum-query-immutable) |
+| [0707-design-linked-list](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0707-design-linked-list) |
 ## Minimax
 |  |
 | ------- |
@@ -931,4 +932,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1025-divisor-game](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/1025-divisor-game) |
+## Linked List
+|  |
+| ------- |
+| [0707-design-linked-list](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0707-design-linked-list) |
 <!---LeetCode Topics End-->
