@@ -421,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1317-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/1317-convert-integer-to-the-sum-of-two-no-zero-integers) |
+| [1323-maximum-69-number](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/1323-maximum-69-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1399-count-largest-group](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/1399-count-largest-group) |
 | [1406-stone-game-iii](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/1406-stone-game-iii) |
@@ -693,6 +694,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0948-bag-of-tokens) |
 | [0976-largest-perimeter-triangle](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0976-largest-perimeter-triangle) |
+| [1323-maximum-69-number](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/1323-maximum-69-number) |
 | [2029-stone-game-ix](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
