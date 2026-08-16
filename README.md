@@ -530,6 +530,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0050-powx-n) |
+| [0203-remove-linked-list-elements](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0203-remove-linked-list-elements) |
 | [0231-power-of-two](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0342-power-of-four) |
@@ -935,5 +936,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0203-remove-linked-list-elements](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0203-remove-linked-list-elements) |
 | [0707-design-linked-list](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0707-design-linked-list) |
 <!---LeetCode Topics End-->
