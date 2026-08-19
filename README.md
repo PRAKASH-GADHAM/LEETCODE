@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1386-cinema-seat-allocation](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/1406-stone-game-iii) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/1171-remove-zero-sum-consecutive-nodes-from-linked-list) |
 | [1207-unique-number-of-occurrences](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/1207-unique-number-of-occurrences) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1386-cinema-seat-allocation](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/1386-cinema-seat-allocation) |
 | [1399-count-largest-group](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/1399-count-largest-group) |
 | [1512-number-of-good-pairs](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/1512-number-of-good-pairs) |
 | [1657-determine-if-two-strings-are-close](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/1657-determine-if-two-strings-are-close) |
@@ -286,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0645-set-mismatch) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [1386-cinema-seat-allocation](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/1386-cinema-seat-allocation) |
 | [1486-xor-operation-in-an-array](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/1486-xor-operation-in-an-array) |
 | [3370-smallest-number-with-all-set-bits](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/3370-smallest-number-with-all-set-bits) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -704,6 +707,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-bag-of-tokens](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0948-bag-of-tokens) |
 | [0976-largest-perimeter-triangle](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0976-largest-perimeter-triangle) |
 | [1323-maximum-69-number](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/1323-maximum-69-number) |
+| [1386-cinema-seat-allocation](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/1386-cinema-seat-allocation) |
 | [2029-stone-game-ix](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
