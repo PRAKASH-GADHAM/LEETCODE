@@ -58,6 +58,8 @@ class Solution {
             }
             i++ ;
         }
+        reserved = null ;
+        System.gc() ;
         return maxseats ;
     }
 }
