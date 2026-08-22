@@ -869,10 +869,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0100-same-tree) |
 | [3310-remove-methods-from-project](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0100-same-tree) |
 | [3310-remove-methods-from-project](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/3310-remove-methods-from-project) |
 ## Graph Theory
 |  |
@@ -968,8 +970,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0100-same-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
