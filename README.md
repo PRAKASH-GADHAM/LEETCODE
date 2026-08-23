@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2549-count-distinct-numbers-on-board](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/2549-count-distinct-numbers-on-board) |
 | [2614-prime-in-diagonal](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/2614-prime-in-diagonal) |
 | [2748-number-of-beautiful-pairs](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/2748-number-of-beautiful-pairs) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3024-type-of-triangle](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/3024-type-of-triangle) |
@@ -481,6 +482,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2843-count-symmetric-integers](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/2843-count-symmetric-integers) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [2928-distribute-candies-among-children-i](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/2928-distribute-candies-among-children-i) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3024-type-of-triangle](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/3024-type-of-triangle) |
 | [3079-find-the-sum-of-encrypted-integers](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/3079-find-the-sum-of-encrypted-integers) |
@@ -684,6 +686,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2582-pass-the-pillow](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/2582-pass-the-pillow) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [2739-total-distance-traveled](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/2739-total-distance-traveled) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3174-clear-digits](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/3174-clear-digits) |
 | [3178-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/3178-find-the-child-who-has-the-ball-after-k-seconds) |
@@ -701,6 +704,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0073-set-matrix-zeroes) |
 | [2614-prime-in-diagonal](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/2614-prime-in-diagonal) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 ## Greedy
 |  |
 | ------- |
