@@ -450,6 +450,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1822-sign-of-the-product-of-an-array](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1837-sum-of-digits-in-base-k](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/1837-sum-of-digits-in-base-k) |
 | [1925-count-square-sum-triples](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/1925-count-square-sum-triples) |
+| [1927-sum-game](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/1927-sum-game) |
 | [1952-three-divisors](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/2029-stone-game-ix) |
@@ -639,6 +640,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1768-merge-strings-alternately](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/1768-merge-strings-alternately) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/1812-determine-color-of-a-chessboard-square) |
+| [1927-sum-game](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/1927-sum-game) |
 | [2000-reverse-prefix-of-word](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/2000-reverse-prefix-of-word) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/2269-find-the-k-beauty-of-a-number) |
@@ -712,6 +714,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0976-largest-perimeter-triangle](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0976-largest-perimeter-triangle) |
 | [1323-maximum-69-number](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/1323-maximum-69-number) |
 | [1386-cinema-seat-allocation](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/1386-cinema-seat-allocation) |
+| [1927-sum-game](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -833,6 +836,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/1510-stone-game-iv) |
+| [1927-sum-game](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/2029-stone-game-ix) |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/3222-find-the-winning-player-in-coin-game) |
 ## Combinatorics
