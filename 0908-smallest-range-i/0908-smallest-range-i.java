@@ -1,3 +1,4 @@
+import java.util.Arrays ;
 class Solution {
     public int smallestRangeI(int[] nums, int k) {
         int max = Arrays.stream(nums).max().getAsInt() ;
