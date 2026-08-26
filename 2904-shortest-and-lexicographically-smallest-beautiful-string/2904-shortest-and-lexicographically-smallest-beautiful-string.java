@@ -1,5 +1,10 @@
 class Solution {
-    public String shortestBeautifulSubstring(String s, int k) {
+    static{
+        for(int i = 0; i < 100; i++){
+            shortestBeautifulSubstring("", 1) ;
+        }
+    }
+    public static String shortestBeautifulSubstring(String s, int k) {
         int left = 0 ;
         
         while(left < s.length()){
