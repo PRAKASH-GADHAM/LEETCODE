@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0645-set-mismatch) |
+| [0665-non-decreasing-array](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0665-non-decreasing-array) |
 | [0682-baseball-game](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0724-find-pivot-index) |
