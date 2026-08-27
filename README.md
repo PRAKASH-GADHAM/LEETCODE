@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0908-smallest-range-i](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0908-smallest-range-i) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0922-sort-array-by-parity-ii](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0922-sort-array-by-parity-ii) |
+| [0941-valid-mountain-array](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0941-valid-mountain-array) |
 | [0948-bag-of-tokens](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0948-bag-of-tokens) |
 | [0976-largest-perimeter-triangle](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0976-largest-perimeter-triangle) |
 | [0977-squares-of-a-sorted-array](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0977-squares-of-a-sorted-array) |
