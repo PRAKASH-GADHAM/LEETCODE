@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-find-smallest-letter-greater-than-target](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0812-largest-triangle-area](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0812-largest-triangle-area) |
 | [0821-shortest-distance-to-a-character](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0821-shortest-distance-to-a-character) |
+| [0849-maximize-distance-to-closest-person](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0849-maximize-distance-to-closest-person) |
 | [0875-koko-eating-bananas](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0877-stone-game) |
 | [0881-boats-to-save-people](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0881-boats-to-save-people) |
