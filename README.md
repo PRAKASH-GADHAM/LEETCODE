@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-bag-of-tokens](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0948-bag-of-tokens) |
 | [0976-largest-perimeter-triangle](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0976-largest-perimeter-triangle) |
 | [0977-squares-of-a-sorted-array](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0977-squares-of-a-sorted-array) |
+| [0985-sum-of-even-numbers-after-queries](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0985-sum-of-even-numbers-after-queries) |
 | [0989-add-to-array-form-of-integer](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0989-add-to-array-form-of-integer) |
 | [0997-find-the-town-judge](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0997-find-the-town-judge) |
 | [1004-max-consecutive-ones-iii](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/1004-max-consecutive-ones-iii) |
@@ -696,6 +697,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0844-backspace-string-compare) |
+| [0985-sum-of-even-numbers-after-queries](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0985-sum-of-even-numbers-after-queries) |
 | [1103-distribute-candies-to-people](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/1103-distribute-candies-to-people) |
 | [1688-count-of-matches-in-tournament](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/1688-count-of-matches-in-tournament) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/1700-number-of-students-unable-to-eat-lunch) |
