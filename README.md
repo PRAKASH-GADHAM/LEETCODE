@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1598-crawler-log-folder](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/1598-crawler-log-folder) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
+| [1664-ways-to-make-a-fair-array](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/1664-ways-to-make-a-fair-array) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1732-find-the-highest-altitude](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/1732-find-the-highest-altitude) |
@@ -815,6 +816,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/1480-running-sum-of-1d-array) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/1588-sum-of-all-odd-length-subarrays) |
+| [1664-ways-to-make-a-fair-array](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/1664-ways-to-make-a-fair-array) |
 | [1732-find-the-highest-altitude](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/1732-find-the-highest-altitude) |
 | [2485-find-the-pivot-integer](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/2485-find-the-pivot-integer) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/3432-count-partitions-with-even-sum-difference) |
