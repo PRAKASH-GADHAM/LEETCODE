@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/1140-stone-game-ii) |
 | [1207-unique-number-of-occurrences](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/1207-unique-number-of-occurrences) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/1232-check-if-it-is-a-straight-line) |
+| [1260-shift-2d-grid](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/1260-shift-2d-grid) |
 | [1266-minimum-time-visiting-all-points](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/1266-minimum-time-visiting-all-points) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -706,6 +707,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0844-backspace-string-compare) |
 | [0985-sum-of-even-numbers-after-queries](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0985-sum-of-even-numbers-after-queries) |
 | [1103-distribute-candies-to-people](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/1103-distribute-candies-to-people) |
+| [1260-shift-2d-grid](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/1260-shift-2d-grid) |
 | [1688-count-of-matches-in-tournament](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/1688-count-of-matches-in-tournament) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1929-concatenation-of-array](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/1929-concatenation-of-array) |
@@ -736,6 +738,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0073-set-matrix-zeroes) |
 | [0304-range-sum-query-2d-immutable](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0304-range-sum-query-2d-immutable) |
+| [1260-shift-2d-grid](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/1260-shift-2d-grid) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2614-prime-in-diagonal](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/2614-prime-in-diagonal) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
