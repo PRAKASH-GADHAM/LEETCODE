@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0525-contiguous-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0560-subarray-sum-equals-k) |
+| [0566-reshape-the-matrix](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0566-reshape-the-matrix) |
 | [0598-range-addition-ii](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0598-range-addition-ii) |
 | [0605-can-place-flowers](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
@@ -702,6 +703,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0415-add-strings) |
+| [0566-reshape-the-matrix](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0566-reshape-the-matrix) |
 | [0657-robot-return-to-origin](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0844-backspace-string-compare) |
@@ -738,6 +740,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0073-set-matrix-zeroes) |
 | [0304-range-sum-query-2d-immutable](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0304-range-sum-query-2d-immutable) |
+| [0566-reshape-the-matrix](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0566-reshape-the-matrix) |
 | [1260-shift-2d-grid](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/1260-shift-2d-grid) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2614-prime-in-diagonal](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/2614-prime-in-diagonal) |
