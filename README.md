@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2319-check-if-matrix-is-x-matrix](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/2319-check-if-matrix-is-x-matrix) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2460-apply-operations-to-an-array](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/2460-apply-operations-to-an-array) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -751,6 +752,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-shift-2d-grid](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/1260-shift-2d-grid) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/2022-convert-1d-array-into-2d-array) |
+| [2319-check-if-matrix-is-x-matrix](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/2319-check-if-matrix-is-x-matrix) |
 | [2614-prime-in-diagonal](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/2614-prime-in-diagonal) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 ## Greedy
