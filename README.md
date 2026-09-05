@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1375-number-of-times-binary-string-is-prefix-aligned](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/1375-number-of-times-binary-string-is-prefix-aligned) |
+| [1380-lucky-numbers-in-a-matrix](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1386-cinema-seat-allocation](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/1406-stone-game-iii) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
@@ -753,6 +754,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0766-toeplitz-matrix](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0766-toeplitz-matrix) |
 | [0867-transpose-matrix](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0867-transpose-matrix) |
 | [1260-shift-2d-grid](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/1260-shift-2d-grid) |
+| [1380-lucky-numbers-in-a-matrix](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/1572-matrix-diagonal-sum) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/2022-convert-1d-array-into-2d-array) |
