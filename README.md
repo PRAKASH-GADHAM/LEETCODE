@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0739-daily-temperatures) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0766-toeplitz-matrix](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0766-toeplitz-matrix) |
+| [0794-valid-tic-tac-toe-state](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0794-valid-tic-tac-toe-state) |
 | [0812-largest-triangle-area](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0812-largest-triangle-area) |
 | [0821-shortest-distance-to-a-character](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0821-shortest-distance-to-a-character) |
 | [0848-shifting-letters](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0848-shifting-letters) |
@@ -755,6 +756,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0304-range-sum-query-2d-immutable](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0304-range-sum-query-2d-immutable) |
 | [0566-reshape-the-matrix](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0566-reshape-the-matrix) |
 | [0766-toeplitz-matrix](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0766-toeplitz-matrix) |
+| [0794-valid-tic-tac-toe-state](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0794-valid-tic-tac-toe-state) |
 | [0867-transpose-matrix](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0867-transpose-matrix) |
 | [1260-shift-2d-grid](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/1260-shift-2d-grid) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/1380-lucky-numbers-in-a-matrix) |
