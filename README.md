@@ -561,6 +561,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0070-climbing-stairs) |
+| [0115-distinct-subsequences](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -636,6 +637,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0071-simplify-path) |
 | [0076-minimum-window-substring](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0076-minimum-window-substring) |
+| [0115-distinct-subsequences](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0151-reverse-words-in-a-string) |
 | [0168-excel-sheet-column-title](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0168-excel-sheet-column-title) |
