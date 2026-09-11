@@ -1,20 +1,16 @@
 class Solution {
     public List<Integer> majorityElement(int[] nums) {
-        Arrays.sort(nums); 
-        int n = nums.length / 3;
-        List<Integer> list = new ArrayList<>();
-        Map<Integer, Integer> map = new HashMap<>();
+        Map<Integer , Integer> hash = new HashMap<>() ;
+        List<Integer> list = new ArrayList<>() ;
+        int n = nums.length ;
+        int majority = n / 3 ;
 
-        for (int num : nums) {
-            map.put(num, map.getOrDefault(num, 0) + 1);
-        }
+        for(int num : nums){
+            int count = hash.getOrDefault(num , 0) + 1 ;
+            hash.put(num , count) ;
 
-        for (Map.Entry<Integer, Integer> entry : map.entrySet()) {
-            if (entry.getValue() > n) {
-                list.add(entry.getKey());
-            }
+            if(count > majority && !list.contains(num)) list.add(num) ;
         }
-        
-        return list;
+        return list ;
     }
-}   
+}
