@@ -1083,4 +1083,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0104-maximum-depth-of-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
