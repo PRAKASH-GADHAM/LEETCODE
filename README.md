@@ -464,6 +464,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0728-self-dividing-numbers](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0728-self-dividing-numbers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0812-largest-triangle-area](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0812-largest-triangle-area) |
+| [0836-rectangle-overlap](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0877-stone-game) |
 | [0908-smallest-range-i](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0908-smallest-range-i) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
@@ -1016,6 +1017,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0812-largest-triangle-area](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0812-largest-triangle-area) |
+| [0836-rectangle-overlap](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/0836-rectangle-overlap) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1266-minimum-time-visiting-all-points](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/1266-minimum-time-visiting-all-points) |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/PRAKASH-GADHAM/LEETCODE/tree/master/2481-minimum-cuts-to-divide-a-circle) |
